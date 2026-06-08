@@ -1,6 +1,4 @@
-import defaultLogo from "./assets/hero.png";
-
-function About({ image = defaultLogo, about }) {
+function About({ image = "/src/assets/hero.png", about }) {
   return (
     <aside>
       <img src={image} alt="blog logo" />
