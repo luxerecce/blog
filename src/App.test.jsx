@@ -1,4 +1,5 @@
 /* global describe, test, expect */
+/* global describe, test, expect */
 import ReactDOMServer from "react-dom/server.node";
 import App from "./App.jsx";
 import About from "./About.jsx";
